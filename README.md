@@ -1,4 +1,4 @@
--  Hi, I’m @reallyrabah
--  I’m interested in web developing, game modding, etc
--  I’m currently learning python.
--  Contact me on instagram https://www.instagram.com/reallyrabah
+-  Hi, I’m @silvie3d
+-  I’m interested in web developing, game modding, Blender addon dev, etc
+-  I’m currently learning python, swift, c#, CPP, flutter
+-  Contact me on instagram https://www.instagram.com/silvie3d
